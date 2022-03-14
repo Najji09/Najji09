@@ -20,7 +20,7 @@ I am currently learning:
 
 Contacts : n96h09j09@outlook.kr
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Najii09)](https://github.com/Najii09/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Najji09)](https://github.com/Najji09/github-readme-stats)
 
 Anyways, since you are here, take a look at my cat!
 ![KakaoTalk_20220314_164952053](https://user-images.githubusercontent.com/100065117/158127802-6b717f78-5578-43c7-a9ea-6443466fbf7b.jpg)
